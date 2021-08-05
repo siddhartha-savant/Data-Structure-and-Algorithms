@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountingSort/CountingSort.iml" filepath="$PROJECT_DIR$/CountingSort/CountingSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data Structures and Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data Structures and Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSortRecursion/InsertionSortRecursion.iml" filepath="$PROJECT_DIR$/InsertionSortRecursion/InsertionSortRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDKLinkedList/JDKLinkedList.iml" filepath="$PROJECT_DIR$/JDKLinkedList/JDKLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetcodeDiscord/LeetcodeDiscord.iml" filepath="$PROJECT_DIR$/LeetcodeDiscord/LeetcodeDiscord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge1/LinkedListChallenge1.iml" filepath="$PROJECT_DIR$/LinkedListChallenge1/LinkedListChallenge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedStack/LinkedStack.iml" filepath="$PROJECT_DIR$/LinkedStack/LinkedStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lists-Linked-Lists-Challenge-#2-Source-Code/Lists-Linked-Lists-Challenge-#2-Source-Code.iml" filepath="$PROJECT_DIR$/Lists-Linked-Lists-Challenge-#2-Source-Code/Lists-Linked-Lists-Challenge-#2-Source-Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lists-Stacks-Implementation-(Array)-Source-Code/Lists-Stacks-Implementation-(Array)-Source-Code.iml" filepath="$PROJECT_DIR$/Lists-Stacks-Implementation-(Array)-Source-Code/Lists-Stacks-Implementation-(Array)-Source-Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RadixSort/RadixSort.iml" filepath="$PROJECT_DIR$/RadixSort/RadixSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RadixSortChallenge/RadixSortChallenge.iml" filepath="$PROJECT_DIR$/RadixSortChallenge/RadixSortChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/ShellSort/ShellSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingArrayUsingJDK/SortingArrayUsingJDK.iml" filepath="$PROJECT_DIR$/SortingArrayUsingJDK/SortingArrayUsingJDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackChallenge/StackChallenge.iml" filepath="$PROJECT_DIR$/StackChallenge/StackChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vectors/Vectors.iml" filepath="$PROJECT_DIR$/Vectors/Vectors.iml" />
+    </modules>
+  </component>
+</project>
